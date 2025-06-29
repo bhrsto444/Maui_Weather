@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiWeather\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\mvvm\\viewmodels\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\mvvm\\viewmodels\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\mvvm\\views\\weatherview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\mvvm\\views\\weatherview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\mvvm\\views\\weatherview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\mvvm\\views\\weatherview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\converters\\codetolottieconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\converters\\codetolottieconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\converters\\codetoweatherconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\converters\\codetoweatherconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\mvvm\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\mvvm\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\resources\\styles\\appstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\resources\\styles\\appstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|c:\\users\\ogran\\documents\\maui_projekti_vise\\jaa\\mauiweather\\mauiweather\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB3B6F-EAA3-4ADF-BF2F-B2C0814FD980}|MauiWeather\\MauiWeather.csproj|solutionrelative:mauiweather\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\ViewModels\\WeatherViewModel.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\MVVM\\ViewModels\\WeatherViewModel.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\ViewModels\\WeatherViewModel.cs",
+              "RelativeToolTip": "MauiWeather\\MVVM\\ViewModels\\WeatherViewModel.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAawFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:35:41.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeToLottieConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Converters\\CodeToLottieConverter.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\Converters\\CodeToLottieConverter.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Converters\\CodeToLottieConverter.cs",
+              "RelativeToolTip": "MauiWeather\\Converters\\CodeToLottieConverter.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABRwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:15:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\App.xaml",
+              "RelativeDocumentMoniker": "MauiWeather\\App.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\App.xaml",
+              "RelativeToolTip": "MauiWeather\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T23:01:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodeToWeatherConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Converters\\CodeToWeatherConverter.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\Converters\\CodeToWeatherConverter.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Converters\\CodeToWeatherConverter.cs",
+              "RelativeToolTip": "MauiWeather\\Converters\\CodeToWeatherConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:01:47.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MauiWeather\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:00:48.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherView.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\Views\\WeatherView.xaml",
+              "RelativeDocumentMoniker": "MauiWeather\\MVVM\\Views\\WeatherView.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\Views\\WeatherView.xaml",
+              "RelativeToolTip": "MauiWeather\\MVVM\\Views\\WeatherView.xaml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T22:35:04.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\Views\\WeatherView.xaml.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\MVVM\\Views\\WeatherView.xaml.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\Views\\WeatherView.xaml.cs",
+              "RelativeToolTip": "MauiWeather\\MVVM\\Views\\WeatherView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:36:37.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "MauiWeather\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "MauiWeather\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAB8AAAAAAAAAAABhwDEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T23:07:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\MVVM\\Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MVVM\\Models\\WeatherData.cs",
+              "RelativeToolTip": "MauiWeather\\MVVM\\Models\\WeatherData.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:23:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\App.xaml.cs",
+              "RelativeToolTip": "MauiWeather\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:37:37.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Resources\\Styles\\AppStyles.xaml",
+              "RelativeDocumentMoniker": "MauiWeather\\Resources\\Styles\\AppStyles.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Resources\\Styles\\AppStyles.xaml",
+              "RelativeToolTip": "MauiWeather\\Resources\\Styles\\AppStyles.xaml",
+              "ViewState": "AQIAAAUAAAAAAAAAADB0wB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T22:54:06.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "MauiWeather\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "MauiWeather\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAADYAAAAAAAAAAFB2wAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T22:54:34.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiWeather\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\ogran\\Documents\\MAUI_PROJEKTI_VISE\\JAA\\MauiWeather\\MauiWeather\\MauiProgram.cs",
+              "RelativeToolTip": "MauiWeather\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:45:10.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

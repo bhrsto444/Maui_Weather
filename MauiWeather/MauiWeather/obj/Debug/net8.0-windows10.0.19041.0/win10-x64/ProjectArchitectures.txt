@@ -1,0 +1,1 @@
+C:\Users\ogran\Documents\MAUI_PROJEKTI_VISE\JAA\MauiWeather\MauiWeather\MauiWeather.csproj;x64
